@@ -1,0 +1,36 @@
+body {background-color: antiquewhite;
+          font-family: monospace}
+
+header{background-color: mediumaquamarine;
+        font-family: fantasy;
+        font-size: 30px;
+        width:33%}
+
+nav{line-height: 2em;
+            list-style-type:none;
+            padding-left:5px}
+
+section{background-color: aliceblue;
+            width:95%}
+
+h2{background-color: aquamarine;
+        font-family: fantasy;
+        font-size: 18px;
+        color:darkcyan;
+        width:35%}
+
+h3{background-color: aquamarine;
+        font-family: fantasy;
+        font-size: 18px;
+        color:darkblue;
+        width:35%}
+
+footer{background-color: mediumaquamarine;
+        font-family: fantasy;
+        font-size:14px;
+        width:33%}
+
+body2{background-color: antiquewhite;
+        font-family: monospace}
+
+
