@@ -1,36 +1,73 @@
+header{
+    background-color: mediumaquamarine;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    font-size: 25px;
+    background-color: burlywood;
+    }
+.navigation li{
+    display: inline;
+}
+.navigation li a{
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 body {background-color: antiquewhite;
-          font-family: monospace}
+        font-family: monospace;
+        font-size: 16px}
 
-header{background-color: mediumaquamarine;
-        font-family: fantasy;
-        font-size: 30px;
-        width:33%}
 
-nav{line-height: 2em;
-            list-style-type:none;
-            padding-left:5px}
+.column {
+  float: right;
+  width: 50%;
+  padding: 10px;
+  height:250px;
+background-color: lightskyblue
+}
+.freetime {
+    padding:10px;
+    height: 250px;
+    background-color: aliceblue
+}
 
-section{background-color: aliceblue;
-            width:95%}
 
 h2{background-color: aquamarine;
         font-family: fantasy;
-        font-size: 18px;
+        font-size: 30px;
         color:darkcyan;
-        width:35%}
-
+        width:45%}
 h3{background-color: aquamarine;
         font-family: fantasy;
-        font-size: 18px;
+        font-size: 25px;
         color:darkblue;
-        width:35%}
+        width:45%}
+
 
 footer{background-color: mediumaquamarine;
         font-family: fantasy;
         font-size:14px;
         width:33%}
 
-body2{background-color: antiquewhite;
-        font-family: monospace}
+.page2{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height:439.5px;
+    font-size: 27px;
+    background-color: lightskyblue;
+}
 
-
+.picture{
+    position: relative;
+    top:-18.3px;
+}
